@@ -1,0 +1,45 @@
+<section class="ricky">
+    <img class="ricky-img" src="imagenes/OIP.jpeg" alt="">
+
+    <div class="ricky-content container">
+        <h2>los universos de estos carelokos</h2>
+        <p class="txt-p">
+            Lorem ipsum dolor, sit amet consectetur a
+            dipisicing elit. Iure vero veritatis et deserunt?
+            Praesentium officiis laborum quas inventore dolor
+            e temporibus saepe facilis eos minima. 
+            Quas iure maiores a vel praesentium?
+        </p>  
+
+        <div class="ricky-group">
+            <div class="ricky-1">
+                <img src="imagenes/ricky.jpeg" alt="">
+                <h3>los dosh lorem</h3>
+                <p>
+                    Lorem ipsum, dolor sit amet consectetur adipisicing
+                    elit. Dicta modi reprehenderit aliquam, nam sequi 
+                    officia temporibus similique.
+                </p>
+            </div>
+            <div class="ricky-2">
+                <img src="imagenes/OIP.jpeg" alt="">
+                <h3>morty y ricky lorem</h3>
+                <p>
+                    Lorem ipsum, dolor sit amet consectetur adipisicing
+                    elit. Dicta modi reprehenderit aliquam, nam sequi 
+                    officia temporibus similique.
+                </p>
+            </div>
+            <div class="ricky-3">
+                <img src="imagenes/oeoeoe.jpeg" alt="">
+                <h3>ricky lorem</h3>
+                <p>
+                    Lorem ipsum, dolor sit amet consectetur adipisicing
+                    elit. Dicta modi reprehenderit aliquam, nam sequi 
+                    officia temporibus similique.
+                </p>
+            </div>
+        </div>
+        <a href="#" class="btn-1">information</a>
+    </div>
+</section>
