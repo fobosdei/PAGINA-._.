@@ -1,0 +1,23 @@
+<section class="general">
+    <div class="general-1">
+        <h2>lorem similique</h2>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing
+            elit. Modi earum aperiam recusandae laborum doloremque.
+        </p>
+        <a href="#" class="btn-1">information</a>  
+    </div>
+    <div class="general-2"></div>
+</section>
+
+<section class="general">
+    <div class="general-3"></div>
+    <div class="general-1">
+        <h2>lorem similique</h2>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing
+            elit. Modi earum aperiam recusandae laborum doloremque.
+        </p>
+        <a href="#" class="btn-1">information</a>  
+    </div>
+</section>
