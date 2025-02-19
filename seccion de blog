@@ -1,0 +1,32 @@
+<section class="block container">
+    <h2>blog</h2>
+    <p>eprehenderit, nihil eius repellendus nu</p> 
+
+    <div class="block-content">
+        <div class="blog-1">
+            <img src="imagenes/OIP.jpeg" alt="">
+            <h3>blog 1</h3>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            </p>
+        </div>
+    </div>
+
+    <div class="blog-2">
+        <img src="imagenes/ricky y morty.jpeg" alt="">
+        <h3>blog 2</h3>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </p>
+    </div>
+    
+    <div class="blog-3">
+        <img src="imagenes/R.jpeg" alt="">
+        <h3>blog 3</h3>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </p>
+    </div>
+
+    <a href="#" class="btn-1">information</a>
+</section>
